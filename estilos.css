@@ -1,0 +1,21 @@
+body{
+    background-color:plum;
+}
+header {
+    align-items: center;
+    width: 100%;
+    font-size: 100px;
+
+}
+.Container1{
+    font-size: 100px;
+    color:black;
+    font-style: italic;
+}
+.logos{
+    color: darkgreen;
+    font-size: 25px;
+}
+ul {
+    font-size: 30px;
+}
